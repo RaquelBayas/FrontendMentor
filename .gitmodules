@@ -1,0 +1,3 @@
+[submodule "blog-card"]
+	path = blog-card
+	url = https://github.com/RaquelBayas/blog-card.git
